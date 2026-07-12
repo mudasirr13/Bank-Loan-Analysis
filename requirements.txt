@@ -1,7 +1,5 @@
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-openpyxl
-jupyter
+ Python
+ Pandas
+ NumPy
+ SQL Server
+ Power BI
