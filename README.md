@@ -96,7 +96,7 @@ Features include:
 - Bad Loan KPIs
 - Loan Status Summary
 
-![images/Summary.png)
+![Overview Dashboard](images/Summary.png)
 
 ---
 
@@ -113,7 +113,7 @@ Visualizations include:
 - Employment Length Analysis
 - Loan Term Distribution
 
-![Overview Dashboard](images/overview_dashboard.png)
+![Overview Dashboard](images/Overview.png)
 
 ---
 
@@ -123,7 +123,7 @@ The Details Dashboard provides transaction-level loan information with interacti
 
 It enables users to explore individual loan records based on various criteria.
 
-![Details Dashboard](images/details_dashboard.png)
+![Details Dashboard](images/Details.png)
 
 ---
 
@@ -171,11 +171,11 @@ Bank-Loan-Analysis/
 │
 ├── data/
 │   └── financial_loan_data_excel.xlsx
-│
+│   └── financial_Loan.csv
 ├── images/
-│   ├── summary_dashboard.png
-│   ├── overview_dashboard.png
-│   └── details_dashboard.png
+│   ├── Summary.png
+│   ├── Overview.png
+│   └── Details.png
 │
 ├── notebooks/
 │   └── Bank Loan Project.ipynb
@@ -222,13 +222,27 @@ powerbi/Bank Loan Dashboard.pbix
 
 ---
 
-# 💡 Key Insights
+# # 💡 Key Insights
 
-- Processed and analyzed **38K+ loan applications**.
-- Developed SQL queries to calculate business KPIs.
-- Built an interactive three-page Power BI dashboard.
-- Performed exploratory data analysis using Python.
-- Identified good and bad loan trends to support lending decisions.
+- The dataset contains **38,576 loan applications**, with a **total funded amount of $435.8M** and **total payments received of $473.1M**.
+
+- **Good loans account for 86.2%** of all applications, while **bad loans represent 13.8%**, indicating a healthy overall loan portfolio.
+
+- The bank achieved a **loan repayment rate exceeding the total funded amount**, suggesting strong repayment performance across most customers.
+
+- Loan applications show a steady increase throughout the year, with the highest application volume recorded during the later months.
+
+- Borrowers with **mortgage and rent** home ownership represent the largest share of loan applicants.
+
+- **Debt Consolidation** is the most common purpose for loan applications, followed by credit card and home improvement loans.
+
+- Most approved loans fall within the **36-month loan term**, indicating customer preference for shorter repayment periods.
+
+- Borrowers with **longer employment history** generally account for a larger proportion of approved loans, suggesting employment stability plays an important role in lending.
+
+- Geographic analysis highlights significant variation in loan applications across different states, helping identify regions with higher lending activity.
+
+- Interactive filters allow users to analyze lending performance by **state, loan purpose, employment length, home ownership, and loan status**, enabling detailed business analysis.
 
 ---
 
