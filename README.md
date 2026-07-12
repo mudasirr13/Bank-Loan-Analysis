@@ -96,7 +96,7 @@ Features include:
 - Bad Loan KPIs
 - Loan Status Summary
 
-![Summary Dashboard](images/summary_dashboard.png)
+![images/Summary.png)
 
 ---
 
