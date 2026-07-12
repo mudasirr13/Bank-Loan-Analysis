@@ -260,7 +260,7 @@ powerbi/Bank Loan Dashboard.pbix
 **Mudasir Bhat**
 
 - GitHub: https://github.com/mudasirr13
-- LinkedIn: *([Add your LinkedIn profile here](https://www.linkedin.com/in/mudasir-bhat-196213219/))*
+- LinkedIn: *([https://www.linkedin.com/in/mudasir-bhat-196213219/])*
 
 ---
 
