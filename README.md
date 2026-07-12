@@ -36,11 +36,8 @@ The project follows a complete analytics workflow, including:
 | Python | Data Cleaning & Exploratory Data Analysis |
 | Pandas | Data Manipulation |
 | NumPy | Numerical Computing |
-| Matplotlib | Data Visualization |
-| Seaborn | Statistical Visualization |
 | SQL Server | Business Queries & KPI Calculation |
 | Power BI | Interactive Dashboard |
-| Excel | Source Dataset |
 
 ---
 
